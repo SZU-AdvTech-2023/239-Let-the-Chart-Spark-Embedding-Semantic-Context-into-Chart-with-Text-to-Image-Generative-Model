@@ -1,0 +1,6 @@
+@article{REPO239,
+    author = "Xiao, Shishi and Huang, Suizi and Lin, Yue and Ye, Yilin and Zeng, Wei",
+    journal = "IEEE Transactions on Visualization and Computer Graphics",
+    title = "{Let the Chart Spark: Embedding Semantic Context into Chart with Text-to-Image Generative Model}",
+    year = "2023"
+}
